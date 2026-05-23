@@ -21,6 +21,12 @@ By systematically cleaning, processing, and exploring raw transactional data, th
 
 ---
 
+## Dashboard
+
+![Sales Insights Dashboard](https://github.com/harshithanarsing/Insight-Hub/blob/main/salesinsights_Dashboard.png))
+
+---
+
 ## Key Business Problems Addressed
 
 The system is engineered to answer core operational questions crucial for business scalability:
@@ -28,12 +34,6 @@ The system is engineered to answer core operational questions crucial for busine
 2.  **Geographical Demographics:** Which market sectors and regions act as major revenue engines, and which areas require optimized marketing?
 3.  **Customer Metrics:** Who are our top revenue-generating clients, and what are their ordering behaviors?
 4.  **Product Analytics:** Which product segments are high-performing, and which items face low market demand?
-
----
-
-## Dashboard
-
-![Sales Insights Dashboard](https://github.com/harshithanarsing/Insight-Hub/blob/main/salesinsights_Dashboard.png))
 
 ---
 
